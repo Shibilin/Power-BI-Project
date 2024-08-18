@@ -1,5 +1,6 @@
 # Power-BI-Project
 Sales Report as Power BI Project
+
 Project Overview :-
 This Power BI project provides an in-depth analysis of sales data for the years 2013 and 2014. It features two primary reports:
 
