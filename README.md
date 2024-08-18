@@ -4,8 +4,9 @@ Sales Report as Power BI Project
 Project Overview :-
 This Power BI project provides an in-depth analysis of sales data for the years 2013 and 2014. It features two primary reports:
 
-* Sales Overview: A comprehensive dashboard to visualize overall sales performance.
+* Sales Overview: A comprehensive report to visualize overall sales performance.
 * Product Overview: Detailed insights into individual product performance.
+
 The project is designed to help stakeholders understand sales trends, product performance, and key financial metrics.
 
 Report contain :-
@@ -19,6 +20,7 @@ Report contain :-
 * Funnel Charts: Shows unit sold by country.
 
 Video Tutorial :-
+
 For a comprehensive walkthrough of the Power BI reports, including how the graphs and hidden features work, view the video attached in this repository. This video demonstrates:
 
 * How to contact me and small hidden feature.
